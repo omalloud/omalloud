@@ -2,7 +2,7 @@
 
 ### Software Engineer crafting scalable and user-focused solutions
 
-![](https://komarev.com/ghpvc/?username=omalloud&color=grey)
+![](https://komarev.com/ghpvc/?username=omalloud&color=blue)
 
 - 🔭 I'm currently working on **Building a Zero Trust framework for secure IoMT systems**
 

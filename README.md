@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=omalloud&color=blue)
 
-- 🔭 I'm currently working on **Building a Zero Trust framework for secure IoMT systems**
+- 🔭 I'm currently working on **new saas idea**
 
 - 🌱 I'm currently learning **Zero Trust architecture and IoMT security**
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://www.ossama.ma/](https://www.ossama.ma/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1SfdMpgu9HSN_kly8IssRlkD4k24lEXmQ/view](https://drive.google.com/file/d/1SfdMpgu9HSN_kly8IssRlkD4k24lEXmQ/view)**
+- 📄 Know about my experiences **[CV](https://drive.google.com/file/d/1SfdMpgu9HSN_kly8IssRlkD4k24lEXmQ/view)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
